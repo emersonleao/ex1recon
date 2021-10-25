@@ -53,8 +53,3 @@ case $doit in
 esac
 
 echo "Here you are! Hope it was useful!"
-
-
-
-
-
